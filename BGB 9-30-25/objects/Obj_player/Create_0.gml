@@ -1,7 +1,9 @@
 //how move speed work
 Move_speed = 3;
+xspeed = 0
+yspeed = 0
 // Makes tilemappy
-tilemap = layer_tilemap_get_id("Tiles_Col");
+Instance = layer_Instance_get_id("Instances_Col");
 hp = 10;
 hptotal = hp;
 damage = 2;

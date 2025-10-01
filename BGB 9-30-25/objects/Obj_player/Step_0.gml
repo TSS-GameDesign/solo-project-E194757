@@ -31,3 +31,13 @@ _inst.image_angle = facing
 _inst.damage *= damage;
 }
 
+if place_meeting(_hor + Move_speed, _ver, Obj_wall_a )
+{
+	xspeed = 0;
+}
+
+if place_meeting(_ver + Move_speed, _hor, Obj_wall_b )
+{
+	yspeed = 0;
+}
+
