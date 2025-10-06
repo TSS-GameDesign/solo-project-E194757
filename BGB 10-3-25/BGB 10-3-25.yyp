@@ -58,6 +58,7 @@
     {"id":{"name":"Spr_darkness","path":"sprites/Spr_darkness/Spr_darkness.yy",},},
     {"id":{"name":"Spr_dented_gob","path":"sprites/Spr_dented_gob/Spr_dented_gob.yy",},},
     {"id":{"name":"Spr_door","path":"sprites/Spr_door/Spr_door.yy",},},
+    {"id":{"name":"Spr_eyesigil","path":"sprites/Spr_eyesigil/Spr_eyesigil.yy",},},
     {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
     {"id":{"name":"Spr_god","path":"sprites/Spr_god/Spr_god.yy",},},
     {"id":{"name":"Spr_Grass","path":"sprites/Spr_Grass/Spr_Grass.yy",},},
