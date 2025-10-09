@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"README",
+  "name":"README",
+  "parent":{
+    "name":"10-9-25",
+    "path":"10-9-25.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
