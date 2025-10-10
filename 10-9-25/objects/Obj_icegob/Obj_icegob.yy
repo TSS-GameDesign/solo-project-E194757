@@ -5,10 +5,10 @@
   "managed":true,
   "name":"Obj_icegob",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"hp","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Damage","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"4.5",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"hp","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Damage","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"4",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Xp_value","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"35",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Move_speed","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Move_speed","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
   ],
   "parent":{
     "name":"Objects",
