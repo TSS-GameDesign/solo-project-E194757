@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_acid",
+  "%Name":"Obj_acid_hazard",
   "eventList":[],
   "managed":true,
-  "name":"Obj_acid",
+  "name":"Obj_acid_hazard",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
