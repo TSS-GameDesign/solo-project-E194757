@@ -4,12 +4,20 @@
   "eventList":[],
   "managed":true,
   "name":"Obj_iceconstruct_boss",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"hp","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"25",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Damage","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2.5",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Move_speed","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0.75",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Xp_value","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"200",},
+  ],
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_gob_parent",
+    "path":"objects/Obj_gob_parent/Obj_gob_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,7 +35,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_Constructofice_boss",
+    "path":"sprites/Spr_Constructofice_boss/Spr_Constructofice_boss.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
