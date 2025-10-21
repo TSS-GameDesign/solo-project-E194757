@@ -35,5 +35,25 @@ _inst.damage *= damage;
  if (keyboard_check_pressed(vk_enter))
     {
         var _bullet = instance_create_layer(x, y, "Instances", Obj_bullet);
-        // Further customize the bullet if needed
-    }
+	}
+	
+if (place_meeting(x, y, Obj_KEY_1)) {
+	instance_destroy(Obj_KEY_1)
+	Key1 = true
+}
+if (place_meeting(x, y, Obj_gate1))
+	{
+		instance_destroy(Obj_gate1)
+		Key1 = false
+	}
+	
+	if (place_meeting(x, y, Obj_KEY_2)) {
+	instance_destroy(Obj_KEY_2)
+	Key2 = true
+}
+if (place_meeting(x, y, Obj_gate2))
+	{
+		instance_destroy(Obj_gate2)
+		Key2 = false
+	}
+	

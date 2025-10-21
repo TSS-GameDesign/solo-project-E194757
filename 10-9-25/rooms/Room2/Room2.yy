@@ -183,6 +183,8 @@
     {"name":"inst_53E5D591","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_4AA0F356","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_4EF785C8","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_1F637F27","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_18568044","path":"rooms/Room2/Room2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -364,6 +366,8 @@
         {"$GMRInstance":"v2","%Name":"inst_53E5D591","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_53E5D591","objectId":{"name":"Obj_icewall_b","path":"objects/Obj_icewall_b/Obj_icewall_b.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":957.0,"y":405.0,},
         {"$GMRInstance":"v2","%Name":"inst_4AA0F356","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4AA0F356","objectId":{"name":"Obj_iceconstruct_boss","path":"objects/Obj_iceconstruct_boss/Obj_iceconstruct_boss.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.120955884,"scaleY":0.17187504,"x":1184.0,"y":608.0,},
         {"$GMRInstance":"v2","%Name":"inst_4EF785C8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4EF785C8","objectId":{"name":"Obj_icicle_hazard","path":"objects/Obj_icicle_hazard/Obj_icicle_hazard.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-89.526695,"scaleX":1.0,"scaleY":1.0,"x":1030.4674,"y":607.49133,},
+        {"$GMRInstance":"v2","%Name":"inst_1F637F27","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1F637F27","objectId":{"name":"Obj_gate1","path":"objects/Obj_gate1/Obj_gate1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-93.321266,"scaleX":1.0,"scaleY":1.9735099,"x":1365.9999,"y":327.3174,},
+        {"$GMRInstance":"v2","%Name":"inst_18568044","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_18568044","objectId":{"name":"Obj_KEY_1","path":"objects/Obj_KEY_1/Obj_KEY_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1169.0,"y":62.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_321E9CF8","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_321E9CF8","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":23.4375,"scaleY":14.0625,"spriteId":{"name":"Spr_snow","path":"sprites/Spr_snow/Spr_snow.yy",},"x":0.0,"y":-2.0,},

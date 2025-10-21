@@ -11,6 +11,10 @@ facing = 0;
 level = 1;
 xp = 0;
 xp_require = 100;
+Key1 = false
+Key2 = false
+Key3 = false
+Key4 = false
 
 function add_xp(_xp_to_add)
 {
