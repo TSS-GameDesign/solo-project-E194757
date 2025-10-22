@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_gate2",
-  "eventList":[],
+  "%Name":"Obj_invis_wall",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_gate2",
+  "name":"Obj_invis_wall",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_wall_parent",
+    "path":"objects/Obj_wall_parent/Obj_wall_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -26,10 +31,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"Spr_gate",
-    "path":"sprites/Spr_gate/Spr_gate.yy",
+    "name":"Spr_placeholder",
+    "path":"sprites/Spr_placeholder/Spr_placeholder.yy",
   },
   "spriteMaskId":null,
   "visible":true,

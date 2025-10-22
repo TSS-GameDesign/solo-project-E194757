@@ -6,3 +6,4 @@ speed = 8;
 
 // Align the image angle with the direction of movement
 image_angle = direction;
+

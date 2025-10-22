@@ -43,8 +43,11 @@ if (place_meeting(x, y, Obj_KEY_1)) {
 }
 if (place_meeting(x, y, Obj_gate1))
 	{
+		if Key1 = true
+		{
 		instance_destroy(Obj_gate1)
-		Key1 = false
+		Key1 = true
+		}
 	}
 	
 	if (place_meeting(x, y, Obj_KEY_2)) {
@@ -54,6 +57,15 @@ if (place_meeting(x, y, Obj_gate1))
 if (place_meeting(x, y, Obj_gate2))
 	{
 		instance_destroy(Obj_gate2)
-		Key2 = false
+		Key2 = true
 	}
 	
+	
+	if (place_meeting(x, y, Obj_invis_wall))
+	{
+		if Key1 = true
+		{
+		instance_destroy(Obj_invis_wall)
+		Key1 = false
+		}
+	}
