@@ -69,3 +69,13 @@ if (place_meeting(x, y, Obj_gate2))
 		Key1 = false
 		}
 	}
+	
+	
+	if (place_meeting(x, y, Obj_invis_wall))
+	{
+		if Key2 = true
+		{
+		instance_destroy(Obj_invis_wall)
+		Key2 = false
+		}
+	}
