@@ -15,4 +15,3 @@ kb_y = 0;
 
 Xp_value = 200
 
-alarm[3] = game_get_speed(gamespeed_fps) * 5

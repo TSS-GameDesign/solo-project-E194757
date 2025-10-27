@@ -10,7 +10,3 @@ var vsp = clamp(target_y - y, -1, 1);
 //Moves enemy, creates collision with tilemap and other instances of itself
 move_and_collide(hsp * Move_speed, vsp * Move_speed, [tilemap, Obj_boss_parent]);
 
-if (alarm[0] > 0) {
-  alarm[0]--;
-}
- 
