@@ -21,6 +21,7 @@
     {"name":"Obj_boss_gate","order":31,"path":"objects/Obj_boss_gate/Obj_boss_gate.yy",},
     {"name":"Obj_boss_parent","order":32,"path":"objects/Obj_boss_parent/Obj_boss_parent.yy",},
     {"name":"Obj_bullet","order":26,"path":"objects/Obj_bullet/Obj_bullet.yy",},
+    {"name":"Obj_collisionforboss","order":35,"path":"objects/Obj_collisionforboss/Obj_collisionforboss.yy",},
     {"name":"Obj_dented_gob","order":1,"path":"objects/Obj_dented_gob/Obj_dented_gob.yy",},
     {"name":"Obj_dialog","order":5,"path":"objects/Obj_dialog/Obj_dialog.yy",},
     {"name":"Obj_door_exit","order":12,"path":"objects/Obj_door_exit/Obj_door_exit.yy",},

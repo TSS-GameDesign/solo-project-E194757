@@ -42,6 +42,7 @@
     {"id":{"name":"Obj_boss_gate","path":"objects/Obj_boss_gate/Obj_boss_gate.yy",},},
     {"id":{"name":"Obj_boss_parent","path":"objects/Obj_boss_parent/Obj_boss_parent.yy",},},
     {"id":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},},
+    {"id":{"name":"Obj_collisionforboss","path":"objects/Obj_collisionforboss/Obj_collisionforboss.yy",},},
     {"id":{"name":"Obj_dented_gob","path":"objects/Obj_dented_gob/Obj_dented_gob.yy",},},
     {"id":{"name":"Obj_dialog","path":"objects/Obj_dialog/Obj_dialog.yy",},},
     {"id":{"name":"Obj_door_exit","path":"objects/Obj_door_exit/Obj_door_exit.yy",},},

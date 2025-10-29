@@ -10,3 +10,13 @@ var vsp = clamp(target_y - y, -1, 1);
 //Moves enemy, creates collision with tilemap and other instances of itself
 move_and_collide(hsp * Move_speed, vsp * Move_speed, [tilemap, Obj_boss_parent]);
 
+
+
+
+if global.bulletallow = true{
+{instance_create_layer(x + 0, y + 0, "Instances", Obj_enemy_projectile1);
+	
+}
+
+}
+

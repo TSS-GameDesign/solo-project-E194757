@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_enemy_bullet_parent",
+  "%Name":"Obj_collisionforboss",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_enemy_bullet_parent",
+  "name":"Obj_collisionforboss",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

@@ -1,4 +1,2 @@
-firerate = 2.5
-Damage = 3
- 
-alarm[1] = game_get_speed(gamespeed_fps) * 5
+speed = 4;
+direction = Obj_player.image_angle = 4;

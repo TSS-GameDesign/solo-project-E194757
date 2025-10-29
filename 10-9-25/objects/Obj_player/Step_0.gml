@@ -79,3 +79,12 @@ if (place_meeting(x, y, Obj_gate2))
 		Key2 = false
 		}
 	}
+	
+	
+	
+	if place_meeting(x, y, Obj_collisionforboss){
+		global.bulletallow = true
+	}
+	else {
+		global.bulletallow = false
+	}
