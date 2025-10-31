@@ -13,5 +13,5 @@ kb_x = 0;
 kb_y = 0;
 
 
-Xp_value = 200
+Xp_value = 200;
 
