@@ -1,3 +1,5 @@
+global._collider = false
+
 //how move speed work
 Move_speed = 3;
 hsp = 0

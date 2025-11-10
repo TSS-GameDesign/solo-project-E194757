@@ -1,5 +1,5 @@
 Bossdead = false
-
+bulletfired = false
 //The target coordinates for the enemy to reach
 target_x = x;
 target_y = y;
