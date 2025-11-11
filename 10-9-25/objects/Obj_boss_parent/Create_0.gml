@@ -1,4 +1,4 @@
-Bossdead = false
+global._Bossdead = false
 bulletfired = false
 //The target coordinates for the enemy to reach
 target_x = x;

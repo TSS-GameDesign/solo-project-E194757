@@ -196,6 +196,7 @@
     {"name":"inst_59C65ABC","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_6799DBB2","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_489A7446","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_2BBFD496","path":"rooms/Room2/Room2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -390,6 +391,7 @@
         {"$GMRInstance":"v2","%Name":"inst_59C65ABC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_59C65ABC","objectId":{"name":"Obj_door_exit","path":"objects/Obj_door_exit/Obj_door_exit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-180.27806,"scaleX":0.07821353,"scaleY":0.08272353,"x":824.07587,"y":873.35913,},
         {"$GMRInstance":"v2","%Name":"inst_6799DBB2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6799DBB2","objectId":{"name":"Obj_boss_gate","path":"objects/Obj_boss_gate/Obj_boss_gate.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":930.0,"y":831.0,},
         {"$GMRInstance":"v2","%Name":"inst_489A7446","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_489A7446","objectId":{"name":"Obj_collisionforboss","path":"objects/Obj_collisionforboss/Obj_collisionforboss.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":10.458333,"scaleY":10.18755,"x":949.552,"y":413.99762,},
+        {"$GMRInstance":"v2","%Name":"inst_2BBFD496","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2BBFD496","objectId":{"name":"Obj_iceconstruct_boss","path":"objects/Obj_iceconstruct_boss/Obj_iceconstruct_boss.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-170.99222,"scaleX":4.5596855E-05,"scaleY":0.007812501,"x":1485.3619,"y":878.2926,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_321E9CF8","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_321E9CF8","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":23.4375,"scaleY":14.0625,"spriteId":{"name":"Spr_snow","path":"sprites/Spr_snow/Spr_snow.yy",},"x":1.0,"y":-1.0,},

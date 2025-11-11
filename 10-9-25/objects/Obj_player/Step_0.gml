@@ -84,7 +84,14 @@ if (place_meeting(x, y, Obj_gate2))
 	
 	if place_meeting(x, y, Obj_collisionforboss){
 		global.bulletallow = true
+		if global._Bossdead = true
+		{ 
+			global.bulletallow = false
+		}
+		
 	}
+	
+	
 	else {
 		global.bulletallow = false
 	}
