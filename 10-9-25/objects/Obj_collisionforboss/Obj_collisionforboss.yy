@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_lava",
-    "path":"sprites/spr_lava/spr_lava.yy",
+    "name":"Sprite33",
+    "path":"sprites/Sprite33/Sprite33.yy",
   },
   "spriteMaskId":null,
   "visible":true,
