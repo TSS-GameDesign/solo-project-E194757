@@ -6,6 +6,7 @@ target_y = y;
 
 // Makes alarm 0 run 60 frames (1 second) after line active
 alarm[0] = 60;
+alarm[2] = 30;
 //Makes Tiles_Col a variable
 tilemap = layer_tilemap_get_id("Tiles_Col");
 
