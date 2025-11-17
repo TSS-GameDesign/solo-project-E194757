@@ -1,1 +1,1 @@
-damage = 1.5
+damage = 1.75
