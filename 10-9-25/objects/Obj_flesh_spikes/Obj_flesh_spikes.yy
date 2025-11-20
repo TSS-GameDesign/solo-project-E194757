@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_hell_elemental",
+  "%Name":"Obj_flesh_spikes",
   "eventList":[],
   "managed":true,
-  "name":"Obj_hell_elemental",
+  "name":"Obj_flesh_spikes",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"Obj_boss_parent_1",
-    "path":"objects/Obj_boss_parent_1/Obj_boss_parent_1.yy",
+    "name":"Obj_hazard_parent",
+    "path":"objects/Obj_hazard_parent/Obj_hazard_parent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Hell_elemental",
-    "path":"sprites/Spr_Hell_elemental/Spr_Hell_elemental.yy",
+    "name":"Spr_flesh_spikes",
+    "path":"sprites/Spr_flesh_spikes/Spr_flesh_spikes.yy",
   },
   "spriteMaskId":null,
   "visible":true,

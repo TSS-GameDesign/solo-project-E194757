@@ -4,7 +4,12 @@
   "eventList":[],
   "managed":true,
   "name":"Obj_burnt_gob",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"hp","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"7",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Damage","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Xp_value","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"50",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_gob_parent","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"propertyId":{"name":"Move_speed","path":"objects/Obj_gob_parent/Obj_gob_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+  ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",

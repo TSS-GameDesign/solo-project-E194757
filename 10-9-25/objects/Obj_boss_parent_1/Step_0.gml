@@ -13,8 +13,8 @@ var vsp = clamp(target_y - y, -1, 1);
 move_and_collide(hsp * Move_speed, vsp * Move_speed, [tilemap, Obj_boss_parent]);
 
 if alarm[2] = 30{
-	
-	var bullet = instance_create_layer(x, y, "Instances", Obj_enemy_projectile1); // Create a bullet and store its ID in the variable "bullet". We need its ID b/c we want to do a few more things with it.
+	if global._collider = true{
+	var bullet = instance_create_layer(x, y, "Instances", Obj_flame_ball); // Create a bullet and store its ID in the variable "bullet". We need its ID b/c we want to do a few more things with it.
 	with (bullet)
 	{
 	 direction = point_direction(x, y, Obj_player.x, Obj_player.y); // Give the bullet a direction

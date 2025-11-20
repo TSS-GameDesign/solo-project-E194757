@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_flame_ball",
+    "path":"sprites/Spr_flame_ball/Spr_flame_ball.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
