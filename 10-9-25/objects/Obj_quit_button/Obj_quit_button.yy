@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_blade",
-    "path":"sprites/Spr_blade/Spr_blade.yy",
+    "name":"Spr_quit",
+    "path":"sprites/Spr_quit/Spr_quit.yy",
   },
   "spriteMaskId":null,
   "visible":true,

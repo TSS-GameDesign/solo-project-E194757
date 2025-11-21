@@ -1,0 +1,1 @@
+Sprite_index == Spr_Objective_1_2

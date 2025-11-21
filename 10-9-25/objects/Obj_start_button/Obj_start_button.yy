@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_anklemonitor",
-    "path":"sprites/Spr_anklemonitor/Spr_anklemonitor.yy",
+    "name":"Spr_start",
+    "path":"sprites/Spr_start/Spr_start.yy",
   },
   "spriteMaskId":null,
   "visible":true,
