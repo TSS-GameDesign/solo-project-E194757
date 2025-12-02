@@ -108,7 +108,7 @@
     {"name":"Spr_lavawall_b","order":41,"path":"sprites/Spr_lavawall_b/Spr_lavawall_b.yy",},
     {"name":"Spr_maw","order":56,"path":"sprites/Spr_maw/Spr_maw.yy",},
     {"name":"spr_npc1","order":9,"path":"sprites/spr_npc1/spr_npc1.yy",},
-    {"name":"Spr_Objective_1_2","order":15,"path":"sprites/Spr_Objective_1_2/Spr_Objective_1_2.yy",},
+    {"name":"Spr_Objective_1_2","order":60,"path":"sprites/Spr_Objective_1_2/Spr_Objective_1_2.yy",},
     {"name":"Spr_objective_1","order":59,"path":"sprites/Spr_objective_1/Spr_objective_1.yy",},
     {"name":"Spr_placeholder","order":47,"path":"sprites/Spr_placeholder/Spr_placeholder.yy",},
     {"name":"spr_player_idle_left","order":2,"path":"sprites/spr_player_idle_left/spr_player_idle_left.yy",},
