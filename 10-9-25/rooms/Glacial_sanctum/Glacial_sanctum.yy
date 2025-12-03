@@ -206,6 +206,7 @@
     {"name":"inst_6DFB9744","path":"rooms/Glacial_sanctum/Glacial_sanctum.yy",},
     {"name":"inst_26D8D8A1","path":"rooms/Glacial_sanctum/Glacial_sanctum.yy",},
     {"name":"inst_78D03271","path":"rooms/Glacial_sanctum/Glacial_sanctum.yy",},
+    {"name":"inst_3364D0B7","path":"rooms/Glacial_sanctum/Glacial_sanctum.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -410,6 +411,7 @@
         {"$GMRInstance":"v2","%Name":"inst_6DFB9744","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6DFB9744","objectId":{"name":"Obj_gobguard","path":"objects/Obj_gobguard/Obj_gobguard.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.578125,"scaleY":0.57198715,"x":1341.0,"y":711.6964,},
         {"$GMRInstance":"v2","%Name":"inst_26D8D8A1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_26D8D8A1","objectId":{"name":"Obj_icewall_a","path":"objects/Obj_icewall_a/Obj_icewall_a.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":0.31974125,"x":373.0,"y":576.0,},
         {"$GMRInstance":"v2","%Name":"inst_78D03271","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_78D03271","objectId":{"name":"Obj_boss_gate","path":"objects/Obj_boss_gate/Obj_boss_gate.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":929.0,"y":836.0,},
+        {"$GMRInstance":"v2","%Name":"inst_3364D0B7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3364D0B7","objectId":{"name":"Obj_Objective_1","path":"objects/Obj_Objective_1/Obj_Objective_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.083124995,"scaleY":0.084374994,"x":1053.0,"y":476.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_6AC3FE1C","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_6AC3FE1C","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"Spr_snow_overlay","path":"sprites/Spr_snow_overlay/Spr_snow_overlay.yy",},"x":694.0,"y":688.0,},
