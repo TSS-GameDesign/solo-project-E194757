@@ -110,6 +110,7 @@
     {"name":"spr_npc1","order":9,"path":"sprites/spr_npc1/spr_npc1.yy",},
     {"name":"Spr_Objective_1_2","order":60,"path":"sprites/Spr_Objective_1_2/Spr_Objective_1_2.yy",},
     {"name":"Spr_objective_1","order":59,"path":"sprites/Spr_objective_1/Spr_objective_1.yy",},
+    {"name":"Spr_opened_gate","order":61,"path":"sprites/Spr_opened_gate/Spr_opened_gate.yy",},
     {"name":"Spr_placeholder","order":47,"path":"sprites/Spr_placeholder/Spr_placeholder.yy",},
     {"name":"spr_player_idle_left","order":2,"path":"sprites/spr_player_idle_left/spr_player_idle_left.yy",},
     {"name":"spr_player_idle_right","order":8,"path":"sprites/spr_player_idle_right/spr_player_idle_right.yy",},

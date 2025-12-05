@@ -1,4 +1,4 @@
-instance_destroy(Obj_boss_gate)
+global._Bossdead = true
 
 
 

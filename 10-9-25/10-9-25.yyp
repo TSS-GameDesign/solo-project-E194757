@@ -133,6 +133,7 @@
     {"id":{"name":"spr_npc1","path":"sprites/spr_npc1/spr_npc1.yy",},},
     {"id":{"name":"Spr_Objective_1_2","path":"sprites/Spr_Objective_1_2/Spr_Objective_1_2.yy",},},
     {"id":{"name":"Spr_objective_1","path":"sprites/Spr_objective_1/Spr_objective_1.yy",},},
+    {"id":{"name":"Spr_opened_gate","path":"sprites/Spr_opened_gate/Spr_opened_gate.yy",},},
     {"id":{"name":"Spr_placeholder","path":"sprites/Spr_placeholder/Spr_placeholder.yy",},},
     {"id":{"name":"spr_player_idle_down","path":"sprites/spr_player_idle_down/spr_player_idle_down.yy",},},
     {"id":{"name":"spr_player_idle_left","path":"sprites/spr_player_idle_left/spr_player_idle_left.yy",},},
