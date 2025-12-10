@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_gate",
-    "path":"sprites/Spr_gate/Spr_gate.yy",
+    "name":"Spr_gate2",
+    "path":"sprites/Spr_gate2/Spr_gate2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

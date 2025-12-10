@@ -24,18 +24,19 @@ else
 	else if (sprite_index == spr_player_walk_left) sprite_index = spr_player_idle_left;
 }
 
-if (keyboard_check_pressed(vk_space))
+if (keyboard_check(vk_space))
 {
 var _inst = instance_create_depth (x, y, depth, Obj_slash);
 _inst.image_angle = facing
 _inst.damage *= damage;
 }
 
-
+ 
  if (keyboard_check_pressed(vk_enter))
-    {
-        var _bullet = instance_create_layer(x, y, "Instances", Obj_bullet);
+	{
+		var _bullet = instance_create_layer(x, y, "Instances", Obj_bullet);
 	}
+	
 	
 if (place_meeting(x, y, Obj_KEY_1)) {
 	instance_destroy(Obj_KEY_1)
