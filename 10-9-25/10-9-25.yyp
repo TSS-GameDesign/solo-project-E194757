@@ -168,12 +168,12 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"start","path":"rooms/start/start.yy",},},
-    {"roomId":{"name":"The_End","path":"rooms/The_End/The_End.yy",},},
     {"roomId":{"name":"Floral_fortress","path":"rooms/Floral_fortress/Floral_fortress.yy",},},
     {"roomId":{"name":"Glacial_sanctum","path":"rooms/Glacial_sanctum/Glacial_sanctum.yy",},},
     {"roomId":{"name":"Ice_constructs_prision","path":"rooms/Ice_constructs_prision/Ice_constructs_prision.yy",},},
     {"roomId":{"name":"Hellbound_wastes","path":"rooms/Hellbound_wastes/Hellbound_wastes.yy",},},
     {"roomId":{"name":"Helementals_domain","path":"rooms/Helementals_domain/Helementals_domain.yy",},},
+    {"roomId":{"name":"The_End","path":"rooms/The_End/The_End.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
