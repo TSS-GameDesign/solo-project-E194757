@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"Floral_fortress",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/Floral_fortress/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

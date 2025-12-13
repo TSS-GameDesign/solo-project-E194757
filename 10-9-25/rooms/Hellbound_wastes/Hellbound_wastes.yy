@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"Hellbound_wastes",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/Hellbound_wastes/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

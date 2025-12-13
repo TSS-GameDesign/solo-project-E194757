@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"Helementals_domain",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/Helementals_domain/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
